@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+C:/Users/Administrator/Desktop/HW-458/2.8inch_ESP32-2432S028R/1-Demo/Demo_LVGL(idf-4.3)/5_1_LCD_Test/build/CMakeFiles/bootloader
+C:/Users/Administrator/Desktop/HW-458/2.8inch_ESP32-2432S028R/1-Demo/Demo_LVGL(idf-4.3)/5_1_LCD_Test/build/CMakeFiles/bootloader.rule
+C:/Users/Administrator/Desktop/HW-458/2.8inch_ESP32-2432S028R/1-Demo/Demo_LVGL(idf-4.3)/5_1_LCD_Test/build/CMakeFiles/bootloader-complete.rule
+C:/Users/Administrator/Desktop/HW-458/2.8inch_ESP32-2432S028R/1-Demo/Demo_LVGL(idf-4.3)/5_1_LCD_Test/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+C:/Users/Administrator/Desktop/HW-458/2.8inch_ESP32-2432S028R/1-Demo/Demo_LVGL(idf-4.3)/5_1_LCD_Test/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+C:/Users/Administrator/Desktop/HW-458/2.8inch_ESP32-2432S028R/1-Demo/Demo_LVGL(idf-4.3)/5_1_LCD_Test/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+C:/Users/Administrator/Desktop/HW-458/2.8inch_ESP32-2432S028R/1-Demo/Demo_LVGL(idf-4.3)/5_1_LCD_Test/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+C:/Users/Administrator/Desktop/HW-458/2.8inch_ESP32-2432S028R/1-Demo/Demo_LVGL(idf-4.3)/5_1_LCD_Test/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+C:/Users/Administrator/Desktop/HW-458/2.8inch_ESP32-2432S028R/1-Demo/Demo_LVGL(idf-4.3)/5_1_LCD_Test/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+C:/Users/Administrator/Desktop/HW-458/2.8inch_ESP32-2432S028R/1-Demo/Demo_LVGL(idf-4.3)/5_1_LCD_Test/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
