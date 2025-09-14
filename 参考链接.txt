@@ -1,0 +1,4 @@
+https://www.openhasp.com/0.7.0/hardware/sunton/esp32-2432s028/
+https://github.com/BOlaerts/ESP32-2432s028/tree/main
+https://www.aliexpress.com/item/1005004502250619.html
+https://macsbug.wordpress.com/wp-content/uploads/2022/08/esp32_2432s028_pcb.pdf
